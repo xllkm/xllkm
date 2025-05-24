@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋, I'm Manar!
 
-<!--
-**xllkm/xllkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Passionate software engineering student with solid computer science fundamentals and practical experience in software development.  
+Currently focusing on front-end development using Flutter and web technologies.  
+Seeking an internship to sharpen programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+- Flutter and Dart  
+- HTML, CSS, JavaScript  
+- Basic Python  
+- Git and GitHub  
+- Software development lifecycle (SDLC) basics
+
+---
+
+## Contact
+
+LinkedIn: [linkedin.com/in/yourusername](www.linkedin.com/in/manar-alqurashi-26bbb3352)  
+Check my pinned repositories to see my projects.
+
+---
+
