@@ -20,7 +20,7 @@ Seeking an internship to sharpen programming and problem-solving skills.
 
 ## Contact
 
-LinkedIn: [www.linkedin.com/in/manar-alqurashi-26bbb3352]()  
+LinkedIn: [www.linkedin.com/in/manar-alqurashi-26bbb3352](mmm)  
 Check my pinned repositories to see my projects.
 
 ---
